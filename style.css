@@ -229,6 +229,10 @@ button{
     margin-bottom: 6%;
 }
 
+button:hover{
+    background-color: green;
+}
+
 footer{
     background-color:rgb(64, 144, 190);
     text-align: center;
